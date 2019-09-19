@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nahfohmoom.ar-cherveux.fr/sitemap.xml
